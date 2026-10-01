@@ -7,7 +7,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayansh_Kr_Yadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/chunnukryadav)
-[![Email](https://img.shields.io/badge/Email-hello@ayansh.online-EA4335?style=flat-square&logo=gmail)](mailto:hello@ayansh.online)
+[![Email](https://img.shields.io/badge/Email-ayanshkryadav25@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:ayanshkryadav25@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ayansh.online-00c87a?style=flat-square&logo=vercel)](https://ayansh.online)
 [![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-00c87a?style=flat-square)](https://www.linkedin.com/in/chunnukryadav)
 
@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-> *3rd year B.Tech IT @ University of Kalyani · Building production-grade GenAI systems · Springer-published researcher*
+> *4th  year B.Tech IT @ University of Kalyani · Building production-grade GenAI systems · Springer-published researcher*
 
 I build **complete AI-powered products** — from the Next.js frontend to the LangGraph agent backend, with knowledge graphs, vector search, and full observability in between. Everything containerized with Docker, everything deployable on AWS.
 
